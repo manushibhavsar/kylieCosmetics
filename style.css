@@ -1,0 +1,101 @@
+body,html{
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+
+.container{
+    background-image: url("https://cdn.shopify.com/s/files/1/1133/5964/files/MOBILE_800x.jpg?v=1620067377");
+    background-repeat: repeat;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    font-family:'UniversBoldCondensed', sans-serif ;
+    color: white;
+    
+}
+
+.inner-container{
+    display: inline-block;
+    background-color: #eec1cb; 
+    width: 90%;
+    height: 90%;
+    margin-top: 40px;
+     
+}
+
+.logo img{
+    padding: 20px;
+}
+
+.hugetitle{
+     font-family: 'UniversBoldCondensed', sans-serif;
+     color: transparent;
+     -webkit-text-stroke: 1px white;
+     font-size: 53px;
+}
+
+.mobile h2{
+    font-family: 'UniversBoldCondensed', sans-serif;
+    font-size: 16px;
+    color: white;
+}
+
+.form input{
+    width: 50%;
+    height: 30px;
+    color: #ffffff;
+    border:1px solid #fff;
+    font-family: 'UniversBoldCondensed', sans-serif;
+    background-color: #eec1cb;
+    font-weight: bolder;
+    
+}
+
+.checkbox-wrapper input[type="checkbox"]{
+    height: 20px;
+    width: 10px;
+    margin: 3px 3px 4px;
+    
+}
+
+.group{
+    display: flex;
+    justify-content: center;
+}
+
+.agree1{
+    
+    max-width: 520px;
+    font-size: 12px;
+}
+
+.agree1 p,a{
+    margin: 0 0 10px;
+    color: white;
+}
+
+.mobile{
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.button button{
+    width: 180px;
+    border: none;
+    height: 30px;
+    color: #eec1cb ;
+    background-color: white;
+    font-weight: bolder;
+    font-family: 'UniversBoldCondensed', sans-serif;
+}
+
+.support h3{
+    font-size: 16px;
+}
+
+.support p{
+    font-size: 12px;
+}
