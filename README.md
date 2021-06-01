@@ -1,2 +1,2 @@
 # kylieCosmetics
-tried creating the kylie cosmetic's product landing page
+tried coping the kylie cosmetic's product landing page
